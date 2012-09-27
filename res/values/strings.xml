@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fire System</string>
+    <string name="welcome">welcome to Fire System ...</string>
+    <string name="s_view_btn">详细</string>
+
+</resources>
